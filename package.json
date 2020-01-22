@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miklo88/webauth-iii-challenge-1.git"
+    "url": "git+https://github.com/miklo88/webauth-iii-challenge.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/miklo88/webauth-iii-challenge-1/issues"
+    "url": "https://github.com/miklo88/webauth-iii-challenge/issues"
   },
-  "homepage": "https://github.com/miklo88/webauth-iii-challenge-1#readme",
+  "homepage": "https://github.com/miklo88/webauth-iii-challenge#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
